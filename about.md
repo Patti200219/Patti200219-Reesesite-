@@ -3,6 +3,7 @@ layout: layout.html
 title: Aboot mii
 eleventyNavigation: 
  key: About Me 
+ order: 3
 ---
 # {{ title }} 
      this page is aboot mii
